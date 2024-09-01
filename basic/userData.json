@@ -1,0 +1,82 @@
+[
+        {
+            "firstName": "Dev",
+            "lastName": "Pandya",
+            "email": "123@gmail.com",
+            "phone": "021231656546",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Dhairya",
+            "lastName": "Patel",
+            "email": "dp12@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Dave",
+            "lastName": "Cooper",
+            "email": "dc@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Dhruv",
+            "lastName": "Gamer",
+            "email": "dg@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Nick",
+            "lastName": "John",
+            "email": "nj@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Namita",
+            "lastName": "Thapar",
+            "email": "nt@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Vineeta",
+            "lastName": "Singh",
+            "email": "vs@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Monica",
+            "lastName": "Geller",
+            "email": "mg@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Phoebe",
+            "lastName": "Buffey",
+            "email": "pb@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Green",
+            "email": "rg@gmail.com",
+            "phone": "0123456789",
+            "password": "1234",
+            "groupList": []
+        }
+  ]
